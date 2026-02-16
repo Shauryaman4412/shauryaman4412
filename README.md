@@ -71,53 +71,6 @@ Contact     : shauryamanmenarial@gmail.com
 ![GDPR](https://img.shields.io/badge/GDPR-003399?style=for-the-badge&logo=eu&logoColor=white&labelColor=161b22)
 ![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-Lockheed_Martin-8B0000?style=for-the-badge&logoColor=white&labelColor=161b22)
 
----
-
-## 🚀 `> ls ./projects --detailed`
-
-<details open>
-<summary><b>🦠 VigilantDefender — Hybrid Malware Detection Framework</b> &nbsp;<code>Oct 2024</code></summary>
-<br/>
-
-> **Python · Machine Learning · Cuckoo Sandbox · Static & Dynamic Analysis**
-
-A hybrid malware detection system combining **static analysis** (PE imports, metadata) and **dynamic analysis** (API call sequences, memory usage, network activity) inside a sandboxed environment for Zero-Day threat detection.
-
-- 🤖 Implemented & benchmarked 7 ML algorithms: Random Forest, SVM, KNN, Decision Tree, Naive Bayes, AdaBoost, SGD — achieving **90%+ classification accuracy**
-- 🏗️ Microservices-based, event-driven architecture with **Cuckoo Sandbox** integration
-- ⚡ Automated reporting pipeline for scalable malware dataset processing
-
-[![Repo](https://img.shields.io/badge/View%20Repo-00ff88?style=flat-square&logo=github&logoColor=black)](https://github.com/Shauryaman4412)
-
-</details>
-
-<details open>
-<summary><b>🚗 Futuristic Roadways — Real-Time Vehicle Detection</b> &nbsp;<code>Apr 2025</code></summary>
-<br/>
-
-> **Python · YOLOv8 · OpenCV · Django**
-
-A real-time vehicle detection and traffic monitoring system built for smart-city surveillance.
-
-- 🎯 **YOLOv8 + OpenCV** pipeline for live vehicle detection and anomaly monitoring
-- 🌐 Deployed via **Django** with secure backend, input validation, and structured API integration
-- 🏙️ Enables real-time tracking and scalable processing under high-traffic conditions
-
-[![Repo](https://img.shields.io/badge/View%20Repo-00ff88?style=flat-square&logo=github&logoColor=black)](https://github.com/Shauryaman4412)
-
-</details>
-
-<details>
-<summary><b>💹 Zerodha Landing Page Clone</b> &nbsp;<code>Nov 2023</code></summary>
-<br/>
-
-> **HTML · CSS · JavaScript · Tailwind CSS**
-
-Pixel-perfect recreation of Zerodha's trading platform landing page, applying modern UI/UX principles and full mobile responsiveness with Tailwind CSS.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-00ff88?style=flat-square&logo=github&logoColor=black)](https://github.com/Shauryaman4412)
-
-</details>
 
 ---
 
@@ -141,49 +94,6 @@ Pixel-perfect recreation of Zerodha's trading platform landing page, applying mo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shauryaman4412&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area_color=00ff8815&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 </div>
 
----
-
-## 🏅 `> cat certifications.txt`
-
-| Certification | Issuer | Date |
-|---|---|---|
-| 🔴 **CompTIA Security+** | CompTIA | Jan 2026 |
-| 🔵 **Cyber Security 101** | TryHackMe | Jan 2026 |
-| 🟠 **Introduction to Cybersecurity** | Cisco | Oct 2025 |
-| 🟢 **Network Technician Career Path** | Cisco | May 2023 |
-| 🟡 **AWS Machine Learning Foundations** | Amazon Web Services | Apr 2023 |
-| ⚪ **TryHackMe Cybersecurity Labs** | TryHackMe | Ongoing |
-
----
-
-## 💼 `> cat experience.json`
-
-```json
-[
-  {
-    "role": "Front-end Web Development Intern",
-    "company": "IBM SkillsBuild & CSRBOX",
-    "period": "Jun 2023 – Jul 2023",
-    "type": "Remote",
-    "highlights": [
-      "Built responsive web pages with HTML, CSS, JS, Bootstrap & Tailwind CSS",
-      "Applied OWASP secure development principles in UI components",
-      "Ensured cross-browser compatibility and mobile responsiveness"
-    ]
-  },
-  {
-    "role": "Committee Head",
-    "company": "Aaruush — National Techno-Management Fest, SRM",
-    "period": "Jun 2020 – Sep 2024",
-    "location": "Chennai, India",
-    "highlights": [
-      "Led student committee for national-level fest with 2000+ participants",
-      "Collaborated with industry partners including Red Bull and MSI",
-      "Managed execution across flagship events, driving teamwork & leadership"
-    ]
-  }
-]
-```
 
 ---
 
