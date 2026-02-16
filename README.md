@@ -83,9 +83,9 @@ Certified   : CompTIA Security+ | Cisco Intro to Cybersecurity | AWS ML Foundati
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Shauryaman4412&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Shauryaman4412&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88&cache_seconds=1800"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shauryaman4412&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=8"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shauryaman4412&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=8&cache_seconds=1800"/>
 
 </div>
 
