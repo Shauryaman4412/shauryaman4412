@@ -70,15 +70,6 @@ Certified   : CompTIA Security+ | Cisco Intro to Cybersecurity | AWS ML Foundati
 
 ---
 
-<div align="center">
-  <a href="https://tryhackme.com/p/MrRobot0309">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/MrRobot0309.png" alt="Your Image Badge" />
-  </a>
-</div>
-
-
----
-
 ## 📊 `> git log --stat`
 
 <div align="center">
@@ -102,6 +93,15 @@ Certified   : CompTIA Security+ | Cisco Intro to Cybersecurity | AWS ML Foundati
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shauryaman4412&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area_color=00ff8815&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 </div>
+
+---
+
+<div align="center">
+  <a href="https://tryhackme.com/p/MrRobot0309">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/MrRobot0309.png" alt="TryHackMe Badge"/>
+  </a>
+</div>
+
 ---
 
 ## 📡 `> curl -s contact.json`
