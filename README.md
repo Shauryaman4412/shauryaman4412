@@ -148,9 +148,9 @@ Pixel-perfect recreation of Zerodha's trading platform landing page, applying mo
 | Certification | Issuer | Date |
 |---|---|---|
 | 🔴 **CompTIA Security+** | CompTIA | Jan 2026 |
-| 🔵 **Cyber Security 101** | — | Jan 2026 |
+| 🔵 **Cyber Security 101** | TryHackMe | Jan 2026 |
 | 🟠 **Introduction to Cybersecurity** | Cisco | Oct 2025 |
-| 🟢 **Network Technician Career Path** | — | May 2023 |
+| 🟢 **Network Technician Career Path** | Cisco | May 2023 |
 | 🟡 **AWS Machine Learning Foundations** | Amazon Web Services | Apr 2023 |
 | ⚪ **TryHackMe Cybersecurity Labs** | TryHackMe | Ongoing |
 
@@ -191,7 +191,7 @@ Pixel-perfect recreation of Zerodha's trading platform landing page, applying mo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shauryaman%20Menaria-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shauryaman-menaria)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shauryaman%20Menaria-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/shauryaman-menaria](https://www.linkedin.com/in/shauryaman-menaria-b9b92b220/))
 [![GitHub](https://img.shields.io/badge/GitHub-Shauryaman4412-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shauryaman4412)
 [![Email](https://img.shields.io/badge/Email-shauryamanmenarial%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shauryamanmenarial@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
