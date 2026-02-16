@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/TryHackMe-Ongoing-212C42?style=flat-square&logo=tryhackme&logoColor=white&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ff88?style=flat-square&logo=statuspage&logoColor=black&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Location-India-FF9933?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0d1117"/>
 </p>
 
 </div>
