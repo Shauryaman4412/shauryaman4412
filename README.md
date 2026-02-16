@@ -98,8 +98,6 @@ Certified   : CompTIA Security+ | Cisco Intro to Cybersecurity | AWS ML Foundati
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shauryaman4412&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area_color=00ff8815&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 </div>
-
-
 ---
 
 ## 📡 `> curl -s contact.json`
