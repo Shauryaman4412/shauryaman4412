@@ -96,17 +96,17 @@ Certified   : CompTIA Security+ | Cisco Intro to Cybersecurity | AWS ML Foundati
 
 ---
 
+
+## 📡 `> curl -s contact.json`
+
+<div align="center">
+
 <div align="center">
   <a href="https://tryhackme.com/p/MrRobot0309">
     <img src="https://tryhackme-badges.s3.amazonaws.com/MrRobot0309.png" alt="TryHackMe Badge"/>
   </a>
 </div>
 
----
-
-## 📡 `> curl -s contact.json`
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shauryaman%20Menaria-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shauryaman-menaria-b9b92b220/)
 [![GitHub](https://img.shields.io/badge/GitHub-Shauryaman4412-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shauryaman4412)
