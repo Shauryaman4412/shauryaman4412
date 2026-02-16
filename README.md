@@ -22,13 +22,6 @@ Focus       : SIEM Monitoring · Threat Detection · Incident Response
 Interests   : Malware Analysis · Computer Vision · Network Security
 Certified   : CompTIA Security+ | Cisco Intro to Cybersecurity | AWS ML Foundations
 ```
-<div align="center">
-  <a href="https://tryhackme.com/p/MrRobot0309">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/MrRobot0309.png" alt="TryHackMe Badge"/>
-  </a>
-</div>
-
----
 
 ## 🛡️ `> cat skills.json`
 
