@@ -23,7 +23,6 @@ Education   : BTech CSE (Cybersecurity) — SRM Institute of Science & Technolog
 Focus       : SIEM Monitoring · Threat Detection · Incident Response
 Interests   : Malware Analysis · Computer Vision · Network Security
 Certified   : CompTIA Security+ | Cisco Intro to Cybersecurity | AWS ML Foundations
-Contact     : shauryamanmenarial@gmail.com
 ```
 
 ---
@@ -104,7 +103,7 @@ Contact     : shauryamanmenarial@gmail.com
 [![GitHub](https://img.shields.io/badge/GitHub-Shauryaman4412-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shauryaman4412)
 [![Email](https://img.shields.io/badge/Email-shauryamanmenarial%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shauryamanmenarial@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/MrRobot0309)
-
+![Top 5%](https://img.shields.io/badge/🏆_Top_5%25-Global_Ranking-FFD700?style=for-the-badge&labelColor=161b22)
 </div>
 
 ---
