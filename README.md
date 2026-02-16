@@ -22,6 +22,11 @@ Focus       : SIEM Monitoring · Threat Detection · Incident Response
 Interests   : Malware Analysis · Computer Vision · Network Security
 Certified   : CompTIA Security+ | Cisco Intro to Cybersecurity | AWS ML Foundations
 ```
+<div align="center">
+  <a href="https://tryhackme.com/p/MrRobot0309">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/MrRobot0309.png" alt="TryHackMe Badge"/>
+  </a>
+</div>
 
 ---
 
@@ -101,11 +106,7 @@ Certified   : CompTIA Security+ | Cisco Intro to Cybersecurity | AWS ML Foundati
 
 <div align="center">
 
-<div align="center">
-  <a href="https://tryhackme.com/p/MrRobot0309">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/MrRobot0309.png" alt="TryHackMe Badge"/>
-  </a>
-</div>
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shauryaman%20Menaria-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shauryaman-menaria-b9b92b220/)
