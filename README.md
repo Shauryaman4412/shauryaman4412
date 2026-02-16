@@ -36,6 +36,7 @@ Certified   : CompTIA Security+ | Cisco Intro to Cybersecurity | AWS ML Foundati
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=161b22)
 ![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-00ADB5?style=for-the-badge&logo=linux&logoColor=white&labelColor=161b22)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=161b22)
+![Top 5%](https://img.shields.io/badge/🏆_Top_5%25-Global_Ranking-FFD700?style=for-the-badge&labelColor=161b22)
 
 **Programming & ML**
 
@@ -103,7 +104,7 @@ Certified   : CompTIA Security+ | Cisco Intro to Cybersecurity | AWS ML Foundati
 [![GitHub](https://img.shields.io/badge/GitHub-Shauryaman4412-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shauryaman4412)
 [![Email](https://img.shields.io/badge/Email-shauryamanmenarial%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shauryamanmenarial@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/MrRobot0309)
-![Top 5%](https://img.shields.io/badge/🏆_Top_5%25-Global_Ranking-FFD700?style=for-the-badge&labelColor=161b22)
+
 </div>
 
 ---
