@@ -18,7 +18,6 @@
 ```bash
 Name        : Shauryaman Menaria
 Role        : Entry-Level SOC Analyst
-Education   : BTech CSE (Cybersecurity) — SRM Institute of Science & Technology
 Focus       : SIEM Monitoring · Threat Detection · Incident Response
 Interests   : Malware Analysis · Computer Vision · Network Security
 Certified   : CompTIA Security+ | Cisco Intro to Cybersecurity | AWS ML Foundations
@@ -101,7 +100,6 @@ Certified   : CompTIA Security+ | Cisco Intro to Cybersecurity | AWS ML Foundati
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shauryaman%20Menaria-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shauryaman-menaria-b9b92b220/)
 [![GitHub](https://img.shields.io/badge/GitHub-Shauryaman4412-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shauryaman4412)
-[![Email](https://img.shields.io/badge/Email-shauryamanmenarial%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shauryamanmenarial@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/MrRobot0309)
 
 </div>
