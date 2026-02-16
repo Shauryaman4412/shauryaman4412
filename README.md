@@ -6,7 +6,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/TryHackMe-Ongoing-212C42?style=flat-square&logo=tryhackme&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🏆_Top_5%25-Global_Ranking-FFD700?style=for-the-badge&labelColor=161b22"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ff88?style=flat-square&logo=statuspage&logoColor=black&labelColor=0d1117"/>
 </p>
 
