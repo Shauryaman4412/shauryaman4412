@@ -68,6 +68,15 @@ Certified   : CompTIA Security+ | Cisco Intro to Cybersecurity | AWS ML Foundati
 ![GDPR](https://img.shields.io/badge/GDPR-003399?style=for-the-badge&logo=eu&logoColor=white&labelColor=161b22)
 ![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-Lockheed_Martin-8B0000?style=for-the-badge&logoColor=white&labelColor=161b22)
 
+---
+
+<div align="center">
+  <a href="https://tryhackme.com/p/MrRobot0309">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/MrRobot0309.png" alt="TryHackMe Badge"/>
+  </a>
+</div>
+
+
 
 ---
 
