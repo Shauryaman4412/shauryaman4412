@@ -72,10 +72,9 @@ Certified   : CompTIA Security+ | Cisco Intro to Cybersecurity | AWS ML Foundati
 
 <div align="center">
   <a href="https://tryhackme.com/p/MrRobot0309">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/MrRobot0309.png" alt="TryHackMe Badge"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/MrRobot0309.png" alt="Your Image Badge" />
   </a>
 </div>
-
 
 
 ---
