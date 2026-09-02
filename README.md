@@ -1,121 +1,129 @@
-<div align="center">
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:00ff88&height=130&section=header&animation=fadeIn)](https://github.com/Shauryaman4412)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:00ff88&height=130&section=header&animation=fadeIn" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Hey%2C+I'm+Shauryaman+Menaria+%F0%9F%91%8B;Cybersecurity+Analyst+%7C+Pentester+%7C+Cloud+Security)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Hey%2C+I'm+Shauryaman+Menaria+%F0%9F%91%8B;SOC+Analyst+%7C+Security+Researcher+%7C+Builder)](https://git.io/typing-svg)
-
-<p>
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/TryHackMe-Top%205%25-212C42?style=flat-square&logo=tryhackme&logoColor=white&labelColor=0d1117"/>
-</p>
-
-</div>
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white&labelColor=0d1117)](https://github.com/Shauryaman4412)
+[![AWS SAA-C03](https://img.shields.io/badge/AWS-SAA--C03-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0d1117)](https://github.com/Shauryaman4412)
+[![TryHackMe Top 4%](https://img.shields.io/badge/TryHackMe-Top%204%25-212C42?style=flat-square&logo=tryhackme&logoColor=white&labelColor=0d1117)](https://tryhackme.com/p/Shauryaman4412)
 
 ---
 
 **`> whoami`**
 
-```bash
-Name        : Shauryaman Menaria
-Role        : Entry-Level SOC Analyst
-Focus       : SIEM Monitoring · Threat Detection · Incident Response
-Interests   : Malware Analysis · Computer Vision · Network Security
-Certified   : CompTIA Security+ | Cisco Intro to Cybersecurity | AWS ML Foundations
 ```
+Name        : Shauryaman Menaria
+Role        : Cybersecurity Analyst — Offensive & Defensive Security | Cloud Security
+Focus       : Penetration Testing · Vulnerability Assessment · Cloud Hardening
+Certs       : CompTIA Security+ | AWS SAA-C03 | Cisco Intro to Cybersecurity
+Labs        : TryHackMe Top 4% Globally (95+ rooms & CTF challenges)
+```
+
+---
 
 ## 🛡️ `> cat skills.json`
 
-**Security Operations**
+**Offensive Security**
 
-![SIEM](https://img.shields.io/badge/SIEM-Log%20Analysis%20%26%20Alert%20Triage-00ff88?style=for-the-badge&logo=elastic&logoColor=white&labelColor=161b22)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-active-00ff88?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=161b22)
+![Nmap](https://img.shields.io/badge/Nmap-Network_Scanning-00ADB5?style=for-the-badge&logo=linux&logoColor=white&labelColor=161b22)
+![Gobuster](https://img.shields.io/badge/Gobuster-Dir_Busting-00ADB5?style=for-the-badge&logo=linux&logoColor=white&labelColor=161b22)
+![Hydra](https://img.shields.io/badge/Hydra-Brute_Force-00ADB5?style=for-the-badge&logo=linux&logoColor=white&labelColor=161b22)
+![Privilege Escalation](https://img.shields.io/badge/Privilege_Escalation-SUID%20%7C%20Kernel-00ADB5?style=for-the-badge&logo=linux&logoColor=white&labelColor=161b22)
+![CTF](https://img.shields.io/badge/CTF_Challenges-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=161b22)
+
+**Defensive Security**
+
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-E63946?style=for-the-badge&logo=shield&logoColor=white&labelColor=161b22)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=161b22)
-![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-00ADB5?style=for-the-badge&logo=linux&logoColor=white&labelColor=161b22)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=161b22)
-![Top 5%](https://img.shields.io/badge/🏆_Top_5%25-Global_Ranking-FFD700?style=for-the-badge&labelColor=161b22)
+![SIEM](https://img.shields.io/badge/SIEM-Log_Analysis_%26_Alert_Triage-00ff88?style=for-the-badge&logo=elastic&logoColor=white&labelColor=161b22)
+![Network Security](https://img.shields.io/badge/Network_Security-active-00ADB5?style=for-the-badge&logo=cisco&logoColor=white&labelColor=161b22)
 
-**Programming & ML**
+**Cloud Security**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=161b22)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=161b22)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=161b22)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=161b22)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Computer%20Vision-FF6B35?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=161b22)
-
-**Web & Frameworks**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=161b22)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=161b22)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=161b22)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=161b22)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=161b22)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=161b22)
-
-**OS & Networking**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=161b22)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=161b22)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=161b22)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=161b22)
+![AWS](https://img.shields.io/badge/AWS-IAM%20%7C%20S3%20%7C%20EC2%20%7C%20VPC%20%7C%20CloudTrail%20%7C%20GuardDuty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=161b22)
+![Prowler](https://img.shields.io/badge/Prowler-CIS_Benchmark_Auditing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=161b22)
+![Boto3](https://img.shields.io/badge/Boto3-Python_AWS_SDK-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=161b22)
 
 **Compliance & Frameworks**
 
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=161b22)
-![NIST](https://img.shields.io/badge/NIST_800--53-003087?style=for-the-badge&logoColor=white&labelColor=161b22)
 ![ISO 27001](https://img.shields.io/badge/ISO_27001-005B99?style=for-the-badge&logoColor=white&labelColor=161b22)
+![PCI DSS](https://img.shields.io/badge/PCI_DSS-003399?style=for-the-badge&logoColor=white&labelColor=161b22)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=161b22)
 ![GDPR](https://img.shields.io/badge/GDPR-003399?style=for-the-badge&logo=eu&logoColor=white&labelColor=161b22)
 ![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-Lockheed_Martin-8B0000?style=for-the-badge&logoColor=white&labelColor=161b22)
+![MITRE](https://img.shields.io/badge/HIPAA-active-00ADB5?style=for-the-badge&logoColor=white&labelColor=161b22)
+
+**Infrastructure & Programming**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=161b22)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=161b22)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=161b22)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white&labelColor=161b22)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=161b22)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=161b22)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=161b22)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=161b22)
+
+---
+
+## 🚀 `> ls projects/`
+
+### AWS Cloud Security Audit & Hardening
+> `Prowler v5.39.1 · Python · Boto3 · CIS AWS Benchmark v3.0`
+
+- Conducted end-to-end AWS cloud security audit using Prowler v5.39.1 — **632 checks, 7 critical findings** across IAM, EC2, and S3
+- Remediated all critical misconfigurations; improved compliance pass rate from **50% → 59.18%**
+- Mapped findings to CIS AWS Benchmark v3.0 and verified all hardening programmatically with **5 Python Boto3 scripts**
+- Produced a formal audit report with risk prioritization, compliance posture, and accepted risk documentation
+
+[![View Repo](https://img.shields.io/badge/View_Repo-AWS--Cloud--Sec--Audit-FF9900?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/Shauryaman4412/AWS-Cloud-Sec-Audit)
+
+---
+
+### Cybersecurity Blog — CTF Writeups
+> `Jekyll · TryHackMe · Penetration Testing · Threat Analysis`
+
+- Personal security blog documenting every CTF challenge and TryHackMe room with full methodology writeups
+- Each post follows a structured workflow: problem scoping → enumeration → exploitation → findings summary
+- Covers penetration testing, phishing analysis, privilege escalation, and security tooling
+
+[![Visit Blog](https://img.shields.io/badge/Visit_Blog-shauryaman4412.github.io-00ff88?style=for-the-badge&logo=jekyll&logoColor=white&labelColor=161b22)](https://shauryaman4412.github.io)
+
+---
+
+## 🏆 `> cat certifications.txt`
+
+| Certification | Issuer | Date |
+|---|---|---|
+| AWS Solutions Architect Associate (SAA-C03) | Amazon Web Services | Aug 2026 |
+| CompTIA Security+ | CompTIA | Jan 2026 |
+| Cyber Security 101 | TryHackMe | Jan 2026 |
+| Cisco Introduction to Cybersecurity | Cisco | Oct 2025 |
+| Network Technician Career Path | Cisco | May 2023 |
 
 ---
 
 ## 📊 `> git log --stat`
 
-<div align="center">
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shauryaman4412&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&count_private=true)](https://github.com/Shauryaman4412)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shauryaman4412&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=8)](https://github.com/Shauryaman4412)
 
-<a href="https://github.com/Shauryaman4412">
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shauryaman4412&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88&count_private=true"/>
-</a>
-&nbsp;
-<a href="https://github.com/Shauryaman4412">
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shauryaman4412&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=8"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shauryaman4412&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=6e7681"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shauryaman4412&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area_color=00ff8815&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shauryaman4412&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=6e7681)](https://github.com/Shauryaman4412)
 
 ---
-
 
 ## 📡 `> curl -s contact.json`
 
-<div align="center">
-
-
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shauryaman%20Menaria-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shauryaman-menaria-b9b92b220/)
 [![GitHub](https://img.shields.io/badge/GitHub-Shauryaman4412-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shauryaman4412)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/MrRobot0309)
-
-</div>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%204%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Shauryaman4412)
+[![Blog](https://img.shields.io/badge/Blog-shauryaman4412.github.io-00ff88?style=for-the-badge&logo=jekyll&logoColor=white&labelColor=161b22)](https://shauryaman4412.github.io)
+[![Email](https://img.shields.io/badge/Email-shauryamanmenaria1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shauryamanmenaria1@gmail.com)
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Shauryaman4412&color=00ff88&style=flat-square&label=Profile+Views)
+[![Profile Views](https://komarev.com/ghpvc/?username=Shauryaman4412&color=00ff88&style=flat-square&label=Profile+Views)](https://github.com/Shauryaman4412)
 
 *"Security is not a product, but a process."* — Bruce Schneier
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:0a1628,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:00ff88&height=100&section=footer&animation=fadeIn)](https://github.com/Shauryaman4412)
