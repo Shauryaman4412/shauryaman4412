@@ -103,14 +103,6 @@ Labs        : TryHackMe Top 4% Globally (95+ rooms & CTF challenges)
 
 ---
 
-## 📊 `> git log --stat`
-
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shauryaman4412&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&count_private=true)](https://github.com/Shauryaman4412)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shauryaman4412&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=8)](https://github.com/Shauryaman4412)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shauryaman4412&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=6e7681)](https://github.com/Shauryaman4412)
-
----
 
 ## 📡 `> curl -s contact.json`
 
